@@ -1,0 +1,7 @@
+{
+  "item.hackmissiles.target_designator": "Target Designator",
+  "item.hackmissiles.missile_lite": "LiteStrike Missile",
+  "item.hackmissiles.missile_mid": "MidBlast Missile",
+  "block.hackmissiles.launcher": "Missile Launcher",
+  "block.hackmissiles.sentry": "Sentry-A1"
+}
